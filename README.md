@@ -1,7 +1,7 @@
 # Anycubic Kobra Mods
 A way for me to keep track of soft/hardware changes to my Kobra 1. 
 
-Current release is v0.0.1b. Pushed to GitHub 20230702. 
+Current release is v0.0.1c. Pushed to GitHub 20230708. 
 
 ## Current Modifications: 
  - Mainboard swap for a BTT SKR Mini e3 V3. 
